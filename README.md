@@ -9,6 +9,19 @@
 - Build automated scripts for both offensive and defensive tasks
 - Document outcomes, insights, and challenges
 
+## 🎯 Project Goals
+- Build a hands-on cybersecurity simulation environment.
+- Practice red teaming (attacks) and blue teaming (defense).
+- Learn real-world penetration testing, monitoring, and incident response.
+- Strengthen cybersecurity skills, teamwork, and project experience.
+- Create a reusable open-source framework for future learners.
+
+## 📦 Project Scope
+- **Red Team**: Recon, Exploits, Post-Exploitation.
+- **Blue Team**: Monitoring, Detection, Response Playbooks.
+- **Lab Setup**: VMs, tools, scripts, network simulation.
+- **Docs & Reports**: Setup guides, activity logs, outcomes.
+
 ## 🛠️ Tech Stack & Tools
 
 - Kali Linux, Metasploit, Nmap
